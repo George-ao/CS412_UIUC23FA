@@ -1,0 +1,4 @@
+s1, <aabcacdcf>
+s2, <adcbcae>
+s3, <efabdfcb>
+s4, <egafcbc>
