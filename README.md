@@ -1,6 +1,6 @@
 CS225 @ ZJUI 23SP 
 -----
-Instructor: [Prof.Arindam Banerjee]([https://cs.illinois.edu/about/people/faculty/kindrtnk](https://cs.illinois.edu/about/people/faculty/arindamb)
+Instructor: [Prof.Arindam Banerjee](https://cs.illinois.edu/about/people/faculty/arindamb)
 
 ACADEMIC INTEGRITY
 -----
