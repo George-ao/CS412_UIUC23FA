@@ -1,4 +1,4 @@
-CS225 @ ZJUI 23SP 
+CS412 @ UIUC 23FA 
 -----
 Instructor: [Prof.Arindam Banerjee](https://cs.illinois.edu/about/people/faculty/arindamb)
 
